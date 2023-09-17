@@ -1,6 +1,42 @@
-# Basit-Website-Altyapisi
-HTML,CSS,JS ile kolay bir websitesi
+<h1 align="center">Basit Website Altyapısı 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-V1-blue.svg?cacheSeconds=2592000" />
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCYfguXG4mfgfmLhACJkVPlA?style=social">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYfguXG4mfgfmLhACJkVPlA?style=social">
 
-- 👋 Selamlar dostlar ben Mitszy
-- Kod yazmayı seven bir insan olarak yazdığım kodları burada paylaşmaktayım(takipte kalın!)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=mitszy&show_icons=true&theme=gradient)
+  </a>
+</p>
+
+
+## İndir
+
+```sh
+Visual studio code
+```
+
+## Kullanım
+
+```sh
+Dosyayı indirin ve siteniz hazır.
+```
+
+## Nasıl Yapılır
+
+https://www.youtube.com/watch?v=JzDoyRq5NXU&ab_channel=Mitszy
+
+
+## Yapımcılar
+
+👤 **Mitszy**
+
+* Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
+* Website: https://beastprofile.tr.ht
+* Github: [@mitszy](https://github.com/mitszy)
+
+
+## Bize Destek Ol
+
+Bize bir ⭐️ verip bize destek olabilirsin.
+
+
+
