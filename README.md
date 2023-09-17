@@ -14,7 +14,7 @@
 Visual studio code
 ```
 
-## Kullanım
+## Kullanım 
 
 ```sh
 Dosyayı indirin ve siteniz hazır.
