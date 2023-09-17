@@ -22,7 +22,7 @@ Dosyayı indirin ve siteniz hazır.
 
 ## Nasıl Yapılır
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/JzDoyRq5NXU" title="Basit Website Altyapısı || Hızlı Ve Kolay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**https://www.youtube.com/watch?v=JzDoyRq5NXU&ab_channel=Mitszy**
 
 
 ## Yapımcılar
